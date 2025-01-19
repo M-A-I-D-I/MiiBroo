@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MiiBroo
+- 👋 Hi, I’m ᴍ ᴀ ɪ ᴅ ɪ
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
 <!---
-MiiBroo/MiiBroo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ᴍ ᴀ ɪ ᴅ ɪ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
